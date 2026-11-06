@@ -14,10 +14,12 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ef75698/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ef75698/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ef75698/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ef75698/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ef75698/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
